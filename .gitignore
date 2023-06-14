@@ -72,3 +72,36 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+.idea/*
+
+.git/*
+
+Content/ExcludeAssets/*
+Packaged/*
+
+Platforms/*
+
+Content/Widgets/Mianshi/*
+Content/Widgets/Mianshi/Maps/Scense_Map.umap
+Content/__ExternalObjects__/*
+Content/__ExternalActors__/*
+Content/StarterContent/*
+
+.vsconfig
+
+[http]  
+postBuffer = 524288000
+/Plugins/Developer/RiderLink/*
+#/Plugins/*
+#/Content/Assets/*
+#/Content/Plugins/*
+
+#/Content/*
+
+#!/Content/Blueprints
+#!/Content/Maps
+#!/Content/Materials
+#!/Content/VFXs
+
+
